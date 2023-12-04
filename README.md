@@ -1,6 +1,4 @@
-Certainly! Below is an example README.md file for a hypothetical zkSync smart contract project. Feel free to modify it according to your specific project details:
 
-```markdown
 # MyZkSyncContract
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
