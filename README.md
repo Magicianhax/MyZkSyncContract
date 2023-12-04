@@ -1,20 +1,30 @@
 # MyZkSyncContract
-# MyZkSyncContract
 
-Description of your project.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![zkSync](https://img.shields.io/badge/zkSync-v2.0.0-brightgreen.svg)](https://github.com/matter-labs/zksync)
 
-## Smart Contract Overview
+MyZkSyncContract is a Solidity smart contract that facilitates seamless interactions with the zkSync layer 2 scaling solution on Ethereum. Developers can use this contract to deposit, withdraw, and transfer funds securely within the zkSync network.
 
-Brief overview of your smart contract and how to use it.
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Technology Stack](#technology-stack)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Getting Started
 
-Instructions on setting up and deploying the smart contract.
+### Prerequisites
 
-## Usage
+- Node.js and npm installed
+- Truffle framework installed (`npm install -g truffle`)
+- Ethereum wallet for testing (e.g., MetaMask)
 
-Examples and instructions on interacting with the smart contract.
+### Installation
 
-## License
+1. Clone the repository:
 
-[License Name, e.g., MIT](LICENSE)
+   ```bash
+   git clone https://github.com/your-username/MyZkSyncContract.git
+   cd MyZkSyncContract
